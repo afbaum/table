@@ -1,0 +1,13 @@
+C:\Users\Amanda\Desktop\CS\Table\bin\Debug\netcoreapp3.1\Table.exe
+C:\Users\Amanda\Desktop\CS\Table\bin\Debug\netcoreapp3.1\Table.deps.json
+C:\Users\Amanda\Desktop\CS\Table\bin\Debug\netcoreapp3.1\Table.runtimeconfig.json
+C:\Users\Amanda\Desktop\CS\Table\bin\Debug\netcoreapp3.1\Table.runtimeconfig.dev.json
+C:\Users\Amanda\Desktop\CS\Table\bin\Debug\netcoreapp3.1\Table.dll
+C:\Users\Amanda\Desktop\CS\Table\bin\Debug\netcoreapp3.1\Table.pdb
+C:\Users\Amanda\Desktop\CS\Table\obj\Debug\netcoreapp3.1\Table.csprojAssemblyReference.cache
+C:\Users\Amanda\Desktop\CS\Table\obj\Debug\netcoreapp3.1\Table.AssemblyInfoInputs.cache
+C:\Users\Amanda\Desktop\CS\Table\obj\Debug\netcoreapp3.1\Table.AssemblyInfo.cs
+C:\Users\Amanda\Desktop\CS\Table\obj\Debug\netcoreapp3.1\Table.csproj.CoreCompileInputs.cache
+C:\Users\Amanda\Desktop\CS\Table\obj\Debug\netcoreapp3.1\Table.dll
+C:\Users\Amanda\Desktop\CS\Table\obj\Debug\netcoreapp3.1\Table.pdb
+C:\Users\Amanda\Desktop\CS\Table\obj\Debug\netcoreapp3.1\Table.genruntimeconfig.cache
